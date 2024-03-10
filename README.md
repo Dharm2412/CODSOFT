@@ -1,6 +1,6 @@
 # CODSOFT
 
-## CODSOFT Virtual Internship - Java Programming
+## CODSOFT Internship - Java Programming
 
 This repository contains the completed projects for the CODSOFT Virtual Internship in Java Programming. I successfully completed the four-week program and achieved the following learning objectives:
 
